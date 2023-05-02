@@ -1,1 +1,1 @@
-Hell world I've finally made it to git!
+Hello world I've finally made it to git!
